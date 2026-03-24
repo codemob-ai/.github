@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Terminal-agnostic AI agent workflow manager with parallel isolated sessions.
+### 【🌕】Terminal-agnostic AI agent workflow manager with parallel isolated sessions.
 
 <sub><em>Powered by git worktrees under the hood, but you don't need to know that.</em></sub>
 
